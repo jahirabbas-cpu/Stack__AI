@@ -1,0 +1,6 @@
+{
+  "name": "Weather Forecast & Planner",
+  "description": "Search cities, check current weather conditions, 7-day forecast, hourly trends, and outdoor activity planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
